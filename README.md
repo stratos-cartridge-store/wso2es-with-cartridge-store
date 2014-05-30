@@ -1,2 +1,2 @@
-WSO2ES-With-Cartridge-Store
+wso2es-with-cartridge-store
 ===========================
