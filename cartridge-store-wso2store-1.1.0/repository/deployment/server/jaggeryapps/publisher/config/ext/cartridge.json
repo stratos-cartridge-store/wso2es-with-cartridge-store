@@ -127,7 +127,7 @@
             "type": "file"
         },
  	{
-            "name": "url",
+            "name": "cartridge_artifact",
             "table": "overview",
             "type": "file"
         },
