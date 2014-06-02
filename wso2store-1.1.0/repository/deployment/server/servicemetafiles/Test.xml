@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><serviceGroup name="Test" successfullyAdded="true">
+    <service name="Test" exposedAllTransports="false" serviceDeployedTime="1401702987845" successfullyAdded="true">
+        <operation name="deleteTest">
+            <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/test/add</parameter>
+            <module name="addressing" version="4.2.0" type="engagedModules"/>
+            <module name="pagination" version="4.2.0" type="engagedModules"/>
+        </operation>
+        <operation name="updateTest">
+            <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/test/add</parameter>
+            <module name="addressing" version="4.2.0" type="engagedModules"/>
+            <module name="pagination" version="4.2.0" type="engagedModules"/>
+        </operation>
+        <operation name="getTestArtifactIDs">
+            <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/test/list</parameter>
+            <module name="addressing" version="4.2.0" type="engagedModules"/>
+            <module name="pagination" version="4.2.0" type="engagedModules"/>
+        </operation>
+        <operation name="getTest">
+            <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/test/list</parameter>
+            <module name="addressing" version="4.2.0" type="engagedModules"/>
+            <module name="pagination" version="4.2.0" type="engagedModules"/>
+        </operation>
+        <operation name="getTestDependencies">
+            <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/test/list</parameter>
+            <module name="addressing" version="4.2.0" type="engagedModules"/>
+            <module name="pagination" version="4.2.0" type="engagedModules"/>
+        </operation>
+        <operation name="addTest">
+            <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/test/add</parameter>
+            <module name="addressing" version="4.2.0" type="engagedModules"/>
+            <module name="pagination" version="4.2.0" type="engagedModules"/>
+        </operation>
+        <bindings>
+            <binding name="TestSoap11Binding">
+                <operation name="deleteTest"/>
+                <operation name="updateTest"/>
+                <operation name="getTestArtifactIDs"/>
+                <operation name="getTest"/>
+                <operation name="getTestDependencies"/>
+                <operation name="addTest"/>
+            </binding>
+            <binding name="TestHttpBinding">
+                <operation name="deleteTest"/>
+                <operation name="updateTest"/>
+                <operation name="getTestArtifactIDs"/>
+                <operation name="getTest"/>
+                <operation name="getTestDependencies"/>
+                <operation name="addTest"/>
+            </binding>
+            <binding name="TestSoap12Binding">
+                <operation name="deleteTest"/>
+                <operation name="updateTest"/>
+                <operation name="getTestArtifactIDs"/>
+                <operation name="getTest"/>
+                <operation name="getTestDependencies"/>
+                <operation name="addTest"/>
+            </binding>
+        </bindings>
+        <policies/>
+        <module name="addressing" version="4.2.0" type="engagedModules"/>
+        <module name="pagination" version="4.2.0" type="engagedModules"/>
+        <parameter name="enableMTOM">true</parameter>
+        <parameter name="adminService">true</parameter>
+        <parameter name="AuthorizationAction">/permission/admin/login</parameter>
+        <parameter name="hiddenService">true</parameter>
+        <association destinationPath="/repository/transports/https/listener" type="exposedTransports"/>
+    </service>
+</serviceGroup>

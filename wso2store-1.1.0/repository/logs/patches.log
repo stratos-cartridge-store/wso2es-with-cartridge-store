@@ -38,3 +38,27 @@
 [2014-06-02 11:40:13,396]  INFO {org.wso2.carbon.server.util.PatchUtils} -  No new patch or service pack detected, server will start without applying patches 
 [2014-06-02 11:40:13,546]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification started
 [2014-06-02 11:40:13,706]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification successfully completed without encountering any issues
+[2014-06-02 12:01:09,749]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Checking for patch changes ...
+[2014-06-02 12:01:09,750]  INFO {org.wso2.carbon.server.util.PatchUtils} -  No new patch or service pack detected, server will start without applying patches 
+[2014-06-02 12:01:09,906]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification started
+[2014-06-02 12:01:10,069]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification successfully completed without encountering any issues
+[2014-06-02 14:06:47,904]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Checking for patch changes ...
+[2014-06-02 14:06:47,906]  INFO {org.wso2.carbon.server.util.PatchUtils} -  No new patch or service pack detected, server will start without applying patches 
+[2014-06-02 14:06:48,059]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification started
+[2014-06-02 14:06:48,221]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification successfully completed without encountering any issues
+[2014-06-02 14:40:47,115]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Checking for patch changes ...
+[2014-06-02 14:40:47,116]  INFO {org.wso2.carbon.server.util.PatchUtils} -  No new patch or service pack detected, server will start without applying patches 
+[2014-06-02 14:40:47,277]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification started
+[2014-06-02 14:40:47,439]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification successfully completed without encountering any issues
+[2014-06-02 15:26:11,987]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Checking for patch changes ...
+[2014-06-02 15:26:11,989]  INFO {org.wso2.carbon.server.util.PatchUtils} -  No new patch or service pack detected, server will start without applying patches 
+[2014-06-02 15:26:12,171]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification started
+[2014-06-02 15:26:12,349]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification successfully completed without encountering any issues
+[2014-06-02 15:53:05,756]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Checking for patch changes ...
+[2014-06-02 15:53:05,757]  INFO {org.wso2.carbon.server.util.PatchUtils} -  No new patch or service pack detected, server will start without applying patches 
+[2014-06-02 15:53:05,906]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification started
+[2014-06-02 15:53:06,066]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification successfully completed without encountering any issues
+[2014-06-02 16:20:05,263]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Checking for patch changes ...
+[2014-06-02 16:20:05,264]  INFO {org.wso2.carbon.server.util.PatchUtils} -  No new patch or service pack detected, server will start without applying patches 
+[2014-06-02 16:20:05,416]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification started
+[2014-06-02 16:20:05,574]  INFO {org.wso2.carbon.server.util.PatchUtils} -  Patch verification successfully completed without encountering any issues
