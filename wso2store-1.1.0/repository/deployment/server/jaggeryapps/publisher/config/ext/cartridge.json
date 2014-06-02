@@ -127,11 +127,6 @@
             "type": "file"
         },
  	{
-            "name": "cartridge_artifact",
-            "table": "overview",
-            "type": "file"
-        },
-	{
             "name": "url",
             "table": "overview",
             "type": "file"
@@ -146,7 +141,7 @@
     "permissions": {
         "created": ["Internal/private_{overview_provider}"],
         "in-review": ["Internal/reviewer", "Internal/private_{overview_provider}"],
-        "published": ["Internal/private_{overview_provider}", "Internal/everyone","Internal/reviewer"],
+        "published": ["Internal/private_{overview_provider}"],
         "unpublished": ["Internal/private_{overview_provider}"]
     },
 
