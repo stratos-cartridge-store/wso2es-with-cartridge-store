@@ -114,7 +114,7 @@
             "name": "lifeCycle",
             "table": "*",
             "label": "Life Cycle",
-            "value": "SampleLifeCycle2"
+            "value": "CartridgeLifeCycle"
         } ,
         {
             "name": "banner",
@@ -141,7 +141,7 @@
     "permissions": {
         "created": ["Internal/private_{overview_provider}"],
         "in-review": ["Internal/reviewer", "Internal/private_{overview_provider}"],
-        "published": ["Internal/private_{overview_provider}"],
+        "published": ["Internal/private_{overview_provider}", "Internal/everyone","Internal/reviewer"],
         "unpublished": ["Internal/private_{overview_provider}"]
     },
 
