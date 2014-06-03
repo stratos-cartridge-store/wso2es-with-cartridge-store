@@ -2,7 +2,7 @@
 <artifactType type="application/vnd.wso2-cartridge+xml" shortName="cartridge" singularLabel="Cartridge"
               pluralLabel="Cartridges"
               hasNamespace="false" iconSet="10">
-     <storagePath>/cartriges/@{overview_provider}/@{overview_name}/@{overview_version}</storagePath>
+     <storagePath>/cartridges/@{overview_provider}/@{overview_name}/@{overview_version}</storagePath>
     <nameAttribute>overview_name</nameAttribute>
     <ui>
         <list>

@@ -126,7 +126,10 @@
         "created": ["Internal/private_{overview_provider}"],
         "in-review": ["Internal/reviewer", "Internal/private_{overview_provider}"],
         "published": ["Internal/private_{overview_provider}"],
-        "unpublished": ["Internal/private_{overview_provider}"]
+        "unpublished": ["Internal/private_{overview_provider}"],
+	"approved":["Internal/private_{overview_provider}"],
+        "rejected":["Internal/private_{overview_provider}"],
+        "retired":["Internal/private_{overview_provider}"]
     },
 
 
