@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><serviceGroup name="Version" hashValue="98bda69fc3dbc87140e744be47a339c4" successfullyAdded="true">
-    <service name="Version" serviceDocumentation="Version" exposedAllTransports="false" serviceDeployedTime="1401685781684" successfullyAdded="true">
+    <service name="Version" serviceDocumentation="Version" exposedAllTransports="false" serviceDeployedTime="1401727687883" successfullyAdded="true">
         <operation name="getVersion">
             <module name="addressing" version="4.2.0" type="engagedModules"/>
         </operation>

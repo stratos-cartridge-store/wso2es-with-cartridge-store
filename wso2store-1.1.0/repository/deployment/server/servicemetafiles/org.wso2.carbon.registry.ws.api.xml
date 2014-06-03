@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><serviceGroup name="org.wso2.carbon.registry.ws.api" successfullyAdded="true">
-    <service name="WSRegistryService" serviceDocumentation="WSRegistryService" exposedAllTransports="false" serviceDeployedTime="1401685790022" successfullyAdded="true">
+    <service name="WSRegistryService" serviceDocumentation="WSRegistryService" exposedAllTransports="false" serviceDeployedTime="1401727695963" successfullyAdded="true">
         <operation name="delete">
             <module name="addressing" version="4.2.0" type="engagedModules"/>
         </operation>

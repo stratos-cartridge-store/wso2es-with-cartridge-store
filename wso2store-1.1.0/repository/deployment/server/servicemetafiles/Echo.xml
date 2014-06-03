@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><serviceGroup name="Echo" hashValue="f6099b54e5dde07f9fb1e569307b7c43" successfullyAdded="true">
-    <service name="echo" serviceDocumentation="echo" exposedAllTransports="false" serviceDeployedTime="1401685781709" successfullyAdded="true">
+    <service name="echo" serviceDocumentation="echo" exposedAllTransports="false" serviceDeployedTime="1401727687911" successfullyAdded="true">
         <operation name="echoStringArrays">
             <module name="addressing" version="4.2.0" type="engagedModules"/>
         </operation>

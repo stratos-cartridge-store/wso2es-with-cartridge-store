@@ -2,7 +2,7 @@
     <parameter name="adminService" locked="true">false</parameter>
     <parameter name="AuthorizationAction" locked="true">/permission/admin/manage</parameter>
     <parameter name="hiddenService" locked="true">true</parameter>
-    <service name="BAMToolboxDepolyerService" serviceDocumentation="BAMToolboxDepolyerService" exposedAllTransports="false" serviceDeployedTime="1401685789581" successfullyAdded="true">
+    <service name="BAMToolboxDepolyerService" serviceDocumentation="BAMToolboxDepolyerService" exposedAllTransports="false" serviceDeployedTime="1401727695449" successfullyAdded="true">
         <operation name="deployBasicToolBox">
             <module name="addressing" version="4.2.0" type="engagedModules"/>
         </operation>

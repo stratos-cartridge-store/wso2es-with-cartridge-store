@@ -1,5 +1,5 @@
 {
-    "assets": ["ebook","cartridge"],
+    "assets": ["cartridge", "ebook"],
     "assetsPageSize": 12,
     "commentsPageSize": 10,
     "userSpace": "/_system/governance/users",

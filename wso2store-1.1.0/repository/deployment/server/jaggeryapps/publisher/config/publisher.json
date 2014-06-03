@@ -26,7 +26,7 @@
                 "action":"Create"
             }
         },
-	"CartridgeLifeCycle":{
+        "CartridgeLifeCycle":{
             "onAttach":{
                 "action":"Create"
             }

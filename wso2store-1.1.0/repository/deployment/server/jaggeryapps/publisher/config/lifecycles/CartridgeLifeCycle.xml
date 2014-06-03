@@ -7,7 +7,7 @@
                 <state id='Initial'>
                     <datamodel>
                         <data name="transitionExecution">
-                            <execution forEvent="Create" class="org.wso2.jaggery.scxml.generic.GenericExecutor">
+                            <execution forEvent="Promote" class="org.wso2.jaggery.scxml.generic.GenericExecutor">
                                 <parameter name="PERMISSION:get"
                                            value="http://www.wso2.org/projects/registry/actions/get"/>
                                 <parameter name="PERMISSION:add"
@@ -17,17 +17,19 @@
                                 <parameter name="PERMISSION:authorize" value="authorize"/>
 
                                 <parameter name="STATE_RULE1:Created"
-                                           value="Internal/private_{asset_author}:+add,+delete,+authorize"/>
-                                <parameter name="STATE_RULE2:Created" value="Internal/everyone:-add,-delete,-authorize"/>
+                                           value="Internal/private_{asset_author}:+get,+add,+delete,+authorize"/>
+                                <parameter name="STATE_RULE2:Created"
+                                           value="Internal/reviewer:+get,-add,-delete,-authorize"/>
+                                <parameter name="STATE_RULE3:Created" value="Internal/everyone:-get,-add,-delete,-authorize"/>
                             </execution>
                         </data>
                     </datamodel>
-                    <transition event="Create" target="Created"/>
+                    <transition event="Promote" target="Created"/>
                 </state>
                 <state id="Created">
                     <datamodel>
                         <data name="transitionExecution">
-                            <execution forEvent="Submit" class="org.wso2.jaggery.scxml.generic.GenericExecutor">
+                            <execution forEvent="Promote" class="org.wso2.jaggery.scxml.generic.GenericExecutor">
                                 <parameter name="PERMISSION:get"
                                            value="http://www.wso2.org/projects/registry/actions/get"/>
                                 <parameter name="PERMISSION:add"
@@ -37,13 +39,13 @@
                                 <parameter name="PERMISSION:authorize" value="authorize"/>
 
                                 <parameter name="STATE_RULE1:In-Review"
-                                           value="Internal/private_{asset_author}:-add,-delete,-authorize"/>
-                                <parameter name="STATE_RULE2:In-Review" value="Internal/reviewer:+add,-delete,+authorize"/>
-                                <parameter name="STATE_RULE3:In-Review" value="Internal/everyone:-add,-delete,-authorize"/>
+                                           value="Internal/private_{asset_author}:+get,-add,-delete,-authorize"/>
+                                <parameter name="STATE_RULE2:In-Review"
+                                           value="Internal/reviewer:+get,+add,-delete,+authorize"/>
                             </execution>
                         </data>
                     </datamodel>
-                    <transition event="Submit" target="In-Review"/>
+                    <transition event="Promote" target="In-Review"/>
                 </state>
                 <state id="In-Review">
                     <datamodel>
@@ -189,7 +191,7 @@
                                 <parameter name="STATE_RULE3:Published"
                                            value="Internal/everyone:-add,-delete,-authorize"/>
 				<parameter name="STATE_RULE4:Published"
-                                           value="system/wso2.anonymous.role:get,-add,-delete,-authorize"/>
+                                           value="system/wso2.anonymous.role:+get,-add,-delete,-authorize"/>
                             </execution>
                             <execution forEvent="Retire" class="org.wso2.jaggery.scxml.generic.GenericExecutor">
                                 <parameter name="PERMISSION:get"

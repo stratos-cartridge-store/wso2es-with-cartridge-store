@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><serviceGroup name="E-Book" successfullyAdded="true">
-    <service name="E-Book" exposedAllTransports="false" serviceDeployedTime="1401685790754" successfullyAdded="true">
+    <service name="E-Book" exposedAllTransports="false" serviceDeployedTime="1401727696759" successfullyAdded="true">
         <operation name="getE-Book">
             <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/ebook/list</parameter>
             <module name="addressing" version="4.2.0" type="engagedModules"/>

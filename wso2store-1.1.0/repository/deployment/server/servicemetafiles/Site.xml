@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><serviceGroup name="Site" successfullyAdded="true">
-    <service name="Site" exposedAllTransports="false" serviceDeployedTime="1401685790946" successfullyAdded="true">
+    <service name="Site" exposedAllTransports="false" serviceDeployedTime="1401727696977" successfullyAdded="true">
         <operation name="deleteSite">
             <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/site/add</parameter>
             <module name="addressing" version="4.2.0" type="engagedModules"/>

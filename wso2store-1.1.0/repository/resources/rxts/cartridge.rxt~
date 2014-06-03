@@ -35,7 +35,7 @@
                 <name>Version</name>
             </field>
             <field type="options">
-                <name label="Orchestration Type">orchestration_type</name>
+                <name label="Orchestration Type">category</name>
                 <values>
                     <value>Puppet</value>
                     <value>Chef</value>
@@ -43,13 +43,7 @@
                     <value>Vagrant</value>
                 </values>
             </field>
-            <field type="options">
-                <name label="Strotos Support Version">stratos_support_version</name>
-                <values>
-                    <value>Stratos-4.0.0-rc3</value>
-                    <value>Stratos-4.0.0-rc4</value>
-                </values>
-            </field>
+            
             <field type="text" required="true" url="true">
                 <name>URL</name>
             </field>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><serviceGroup name="URI" successfullyAdded="true">
-    <service name="URI" exposedAllTransports="false" serviceDeployedTime="1401685790985" successfullyAdded="true">
+    <service name="URI" exposedAllTransports="false" serviceDeployedTime="1401727697015" successfullyAdded="true">
         <operation name="addURI">
             <parameter name="AuthorizationAction">/permission/admin/manage/resources/govern/uri/add</parameter>
             <module name="addressing" version="4.2.0" type="engagedModules"/>

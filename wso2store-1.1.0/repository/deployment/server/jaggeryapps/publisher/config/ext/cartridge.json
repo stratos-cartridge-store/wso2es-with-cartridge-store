@@ -91,7 +91,7 @@
             "name": "lifeCycle",
             "table": "*",
             "label": "Life Cycle",
-            "value": "SampleLifeCycle2"
+            "value": "CartridgeLifeCycle"
 
         } ,
         {
@@ -113,6 +113,11 @@
             "name": "description",
             "table": "overview",
             "value": "The provider has not given a description."
+        },
+	{
+            "name": "version",
+            "table": "overview",
+            "value": "Stratos-4.0.0-rc3"
         }
 
     ],
