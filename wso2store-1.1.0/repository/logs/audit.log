@@ -9,3 +9,7 @@
 [2014-06-06 13:18:25,670]  WARN -  Failed Administrator login attempt 'admin[-1234]' at [2014-06-06 13:18:25,670+0530] 
 [2014-06-06 13:18:33,409]  INFO -  'admin@carbon.super [-1234]' logged in at [2014-06-06 13:18:33,408+0530] 
 [2014-06-06 13:34:41,813]  INFO -  'admin@carbon.super [-1234]' logged in at [2014-06-06 13:34:41,812+0530] 
+[2014-06-06 14:58:39,940]  INFO -  'AyeshaDissanayaka@carbon.super [-1234]' logged in at [2014-06-06 14:58:39,939+0530] 
+[2014-06-06 15:05:05,989]  INFO -  'admin@carbon.super [-1234]' logged in at [2014-06-06 15:05:05,988+0530] 
+[2014-06-06 15:05:11,856]  WARN -  Failed Administrator login attempt 'admin[-1234]' at [2014-06-06 15:05:11,856+0530] 
+[2014-06-06 15:05:18,319]  INFO -  'admin@carbon.super [-1234]' logged in at [2014-06-06 15:05:18,319+0530] 
