@@ -118,6 +118,11 @@
             "name": "version",
             "table": "overview",
             "value": "Stratos-4.0.0-rc3"
+        },
+	{
+            "name": "document",
+            "table": "overview",
+            "value": "The provider has not given a Reference."
         }
 
     ],

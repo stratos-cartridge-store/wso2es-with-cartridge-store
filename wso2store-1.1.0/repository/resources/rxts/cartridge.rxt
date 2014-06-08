@@ -51,7 +51,7 @@
                 <name>Description</name>
             </field>
             <field type="text">
-                <name label="Document Link">document_link</name>
+                <name label="Document Link">document</name>
             </field>
   	    <field type="text">
                 <name label="Publisher URL">publisher</name>
