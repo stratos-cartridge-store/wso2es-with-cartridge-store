@@ -30,7 +30,12 @@
                                                 <tr>
                                                     <td class="span3">{{this.label}}</td>
                                                     <td>
-                                                        {{this.value}}
+                                                        {{#if this.isFile}}
+                                                            <a id="download-{{this.name}}" href="{{this.value}}" >Preview</a> 
+                                                        
+                                                        {{else}}
+                                                            {{this.value}}
+                                                        {{/if}}
                                                     </td>
                                                 </tr>
                                             {{/each}}
