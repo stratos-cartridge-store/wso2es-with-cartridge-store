@@ -1,0 +1,1037 @@
+TID: [0] [ES] [2014-06-11 09:44:28,353]  INFO {org.wso2.carbon.cassandra.dataaccess.internal.DataAccessServiceDSComponent} -  Cannot locate '/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/conf/etc/hector-config.xml'. Using the default configuration {org.wso2.carbon.cassandra.dataaccess.internal.DataAccessServiceDSComponent}
+TID: [0] [ES] [2014-06-11 09:44:28,380]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 09:44:28,380]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.13.0-24-generic, amd64 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 09:44:28,380]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/lib/jvm/jdk1.6.0_31/jre {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 09:44:28,380]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.6.0_31 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 09:44:28,380]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 20.6-b01,Sun Microsystems Inc. {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 09:44:28,380]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 09:44:28,380]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/tmp {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 09:44:28,380]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : ayesha, en-US, Asia/Colombo {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 09:44:28,428]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  The default keystore (wso2carbon.jks) is currently being used. To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter}
+TID: [0] [ES] [2014-06-11 09:44:28,433]  INFO {org.wso2.carbon.databridge.agent.thrift.AgentHolder} -  Agent created ! {org.wso2.carbon.databridge.agent.thrift.AgentHolder}
+TID: [0] [ES] [2014-06-11 09:44:28,446]  INFO {org.wso2.carbon.databridge.agent.thrift.internal.AgentDS} -  Successfully deployed Agent Client {org.wso2.carbon.databridge.agent.thrift.internal.AgentDS}
+TID: [0] [ES] [2014-06-11 09:44:28,834]  INFO {org.wso2.carbon.social.internal.SocialComponent} -  Social Activity bundle is activated {org.wso2.carbon.social.internal.SocialComponent}
+TID: [0] [ES] [2014-06-11 09:44:29,533]  WARN {org.apache.cassandra.service.CassandraDaemon} -  Your JVM is out of date. Please upgrade to the newest Oracle Java 6. {org.apache.cassandra.service.CassandraDaemon}
+TID: [0] [ES] [2014-06-11 09:44:29,533]  WARN {org.apache.cassandra.service.CassandraDaemon} -  Your JVM is out of date. Please upgrade to the newest Oracle Java 6. {org.apache.cassandra.service.CassandraDaemon}
+TID: [0] [ES] [2014-06-11 09:44:29,671]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 41ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [ES] [2014-06-11 09:44:29,713]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [ES] [2014-06-11 09:44:29,752]  WARN {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent} -  No toolbox.properties file found! There won't be default toolboxes.. {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent}
+TID: [0] [ES] [2014-06-11 09:44:29,754]  INFO {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent} -  Successfully Started BAM Toolbox Deployer {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent}
+TID: [0] [ES] [2014-06-11 09:44:29,795]  INFO {org.wso2.carbon.databridge.core.internal.DataBridgeDS} -  Successfully deployed Agent Server  {org.wso2.carbon.databridge.core.internal.DataBridgeDS}
+TID: [0] [ES] [2014-06-11 09:44:29,799]  INFO {org.wso2.carbon.event.stream.manager.core.internal.util.EventStreamConfigurationHelper} -  The stream-manager-config.xml can not found  {org.wso2.carbon.event.stream.manager.core.internal.util.EventStreamConfigurationHelper}
+TID: [0] [ES] [2014-06-11 09:44:29,802]  INFO {org.wso2.carbon.bam.toolbox.deployer.internal.DataBridgeRecieverServiceComponent} -  Successfully setted data bridge reciever service {org.wso2.carbon.bam.toolbox.deployer.internal.DataBridgeRecieverServiceComponent}
+TID: [0] [ES] [2014-06-11 09:44:29,883] ERROR {org.apache.cassandra.cql3.QueryProcessor} -  Unable to initialize MemoryMeter (jamm not specified as javaagent).  This means Cassandra will be unable to measure object sizes accurately and may consequently OOM. {org.apache.cassandra.cql3.QueryProcessor}
+TID: [0] [ES] [2014-06-11 09:44:29,883] ERROR {org.apache.cassandra.cql3.QueryProcessor} -  Unable to initialize MemoryMeter (jamm not specified as javaagent).  This means Cassandra will be unable to measure object sizes accurately and may consequently OOM. {org.apache.cassandra.cql3.QueryProcessor}
+TID: [0] [ES] [2014-06-11 09:44:30,003]  WARN {org.apache.cassandra.service.CacheService} -  MemoryMeter uninitialized (jamm not specified as java agent); KeyCache size in JVM Heap will not be calculated accurately. Usually this means cassandra-env.sh disabled jamm because you are using a buggy JRE; upgrade to the Sun JRE instead {org.apache.cassandra.service.CacheService}
+TID: [0] [ES] [2014-06-11 09:44:30,003]  WARN {org.apache.cassandra.service.CacheService} -  MemoryMeter uninitialized (jamm not specified as java agent); KeyCache size in JVM Heap will not be calculated accurately. Usually this means cassandra-env.sh disabled jamm because you are using a buggy JRE; upgrade to the Sun JRE instead {org.apache.cassandra.service.CacheService}
+TID: [0] [ES] [2014-06-11 09:44:30,667]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent}
+TID: [0] [ES] [2014-06-11 09:44:30,843]  INFO {org.wso2.jaggery.scxml.Activator} -  Activating org.wso2.jaggery.scxml with RealmService enabled {org.wso2.jaggery.scxml.Activator}
+TID: [0] [ES] [2014-06-11 09:44:31,006]  INFO {org.wso2.carbon.cassandra.server.CassandraServerController} -  Cassandra Server Controller Thread was destroyed successfully {org.wso2.carbon.cassandra.server.CassandraServerController}
+TID: [0] [ES] [2014-06-11 09:44:33,768]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [ES] [2014-06-11 09:44:33,768]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [ES] [2014-06-11 09:44:33,898]  WARN {org.wso2.carbon.stratos.landing.page.deployer.LandingPageWebappDeployer} -  Product landing page not found. {org.wso2.carbon.stratos.landing.page.deployer.LandingPageWebappDeployer}
+TID: [0] [ES] [2014-06-11 09:44:33,898]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer}
+TID: [0] [ES] [2014-06-11 09:44:33,900]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 09:44:33,900]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 09:44:34,037]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 09:44:34,056]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 09:44:34,056]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 09:44:34,066]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 09:44:34,123]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 09:44:34,123]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 09:44:42,520]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [ES] [2014-06-11 09:44:42,520]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [ES] [2014-06-11 09:44:42,521]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [ES] [2014-06-11 09:44:42,521]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [ES] [2014-06-11 09:44:42,530]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/webapps/ROOT] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [ES] [2014-06-11 09:44:43,071]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store-admin].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/store-admin] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 09:44:43,106]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/storage].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/storage] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 09:44:43,506]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/store] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 09:44:43,704]  INFO {JAGGERY.config.app:js} -  Emitting event : tenantLoad {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:44,045]  INFO {JAGGERY.config.app:js} -  stacked-line-chart >>>> Stacked Line Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:44,151]  INFO {JAGGERY.config.app:js} -  horizontal-bar-chart >>>> Horizontal Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:44,216]  INFO {JAGGERY.config.app:js} -  bubble-chart >>>> Bubble Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:44,269]  INFO {JAGGERY.config.app:js} -  bar-chart >>>> Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:44,315]  INFO {JAGGERY.config.app:js} -  pie-chart >>>> Pie Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:44,360]  INFO {JAGGERY.config.app:js} -  stacked-bar-chart >>>> Stacked Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:44,400]  INFO {JAGGERY.config.app:js} -  line-chart >>>> Line Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:44,443]  INFO {JAGGERY.config.app:js} -  line-plus-bar-chart >>>> Line Plus Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:45,367]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/publisher] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 09:44:45,417]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/social].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/social] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 09:44:45,469]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/sso] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 09:44:45,490]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 09:44:45,540]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 09:44:45,587]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Deploying file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/bam-toolbox/social.tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 09:44:45,588]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Extracting toolbox to directory: /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/tmp/tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 09:44:45,591]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor} -  No Analytics found for toolbox :social {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor}
+TID: [0] [ES] [2014-06-11 09:44:45,591]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor} -  No jaggery artifacts found {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor}
+TID: [0] [ES] [2014-06-11 09:44:45,641]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Deployed successfully file: /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/bam-toolbox/social.tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 09:44:45,667]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v10 - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/client/modules/addressing-1.6.1-wso2v10.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [ES] [2014-06-11 09:44:45,667]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v10 - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/client/modules/addressing-1.6.1-wso2v10.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [ES] [2014-06-11 09:44:45,669]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 09:44:45,669]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 09:44:46,056]  WARN {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator} -  We don't support method overloading. Ignoring [validateAudienceRestriction] {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator}
+TID: [0] [ES] [2014-06-11 09:44:46,056]  WARN {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator} -  We don't support method overloading. Ignoring [validateAudienceRestriction] {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator}
+TID: [0] [ES] [2014-06-11 09:44:46,601]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.registry.ws.api -  {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 09:44:46,601]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.registry.ws.api -  {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 09:44:46,770]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/ {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 09:44:46,795]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 {org.wso2.carbon.core.internal.permission.update.PermissionUpdater}
+TID: [0] [ES] [2014-06-11 09:44:46,991]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift Server started at 192.168.122.1 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 09:44:46,996]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift SSL port : 7711 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 09:44:46,998]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift port : 7611 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 09:44:47,640]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : store {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 09:44:47,640]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : social {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 09:44:47,640]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : publisher {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 09:44:47,765]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9443 {org.wso2.carbon.core.transports.http.HttpsTransportListener}
+TID: [0] [ES] [2014-06-11 09:44:47,765]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9763 {org.wso2.carbon.core.transports.http.HttpTransportListener}
+TID: [0] [ES] [2014-06-11 09:44:47,788]  INFO {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent} -  Successfully Initialized Eventing on Registry {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent}
+TID: [0] [ES] [2014-06-11 09:44:50,506]  INFO {JAGGERY.config.app:js} -  Store URL : http://localhost:9763/store {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:44:52,367]  INFO {JAGGERY.config.app:js} -  Publisher URL : http://localhost:9763/publisher {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 09:46:55,389]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11111/jndi/rmi://localhost:9999/jmxrmi {org.wso2.carbon.core.init.JMXServerManager}
+TID: [0] [ES] [2014-06-11 09:46:55,390]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 Enterprise Store-1.0.0 {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [ES] [2014-06-11 09:46:55,390]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 149 sec {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [ES] [2014-06-11 09:46:55,582]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://192.168.122.1:9443/admin/carbon/ {org.wso2.carbon.ui.internal.CarbonUIServiceComponent}
+TID: [0] [ES] [2014-06-11 09:57:24,591]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2014-06-11 09:57:24,591+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 10:01:46,022]  INFO {JAGGERY..controllers.top-assets:jag} -  Emitting event : tenantLoad {JAGGERY..controllers.top-assets:jag}
+TID: [0] [ES] [2014-06-11 10:08:46,096]  INFO {JAGGERY.controllers.login:jag} -  Login URL: https://192.168.122.1:9443/admin/samlsso {JAGGERY.controllers.login:jag}
+TID: [0] [ES] [2014-06-11 10:08:55,204]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'abcd@carbon.super [-1234]' logged in at [2014-06-11 10:08:55,204+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 10:08:57,157]  INFO {JAGGERY.controllers.acs:jag} -  Emitting event : login {JAGGERY.controllers.acs:jag}
+TID: [0] [ES] [2014-06-11 10:12:24,982] ERROR {org.wso2.carbon.identity.sso.saml.processors.LogoutRequestProcessor} -  undefined]. Expected: [5bd43007-695d-4ec8-9c2c-917601873e3f] {org.wso2.carbon.identity.sso.saml.processors.LogoutRequestProcessor}
+TID: [0] [ES] [2014-06-11 10:12:35,062] ERROR {org.wso2.carbon.identity.sso.saml.processors.LogoutRequestProcessor} -  undefined]. Expected: [5bd43007-695d-4ec8-9c2c-917601873e3f] {org.wso2.carbon.identity.sso.saml.processors.LogoutRequestProcessor}
+TID: [0] [ES] [2014-06-11 10:12:58,063] ERROR {org.wso2.carbon.identity.sso.saml.processors.LogoutRequestProcessor} -  undefined]. Expected: [5bd43007-695d-4ec8-9c2c-917601873e3f] {org.wso2.carbon.identity.sso.saml.processors.LogoutRequestProcessor}
+TID: [0] [ES] [2014-06-11 10:13:21,188]  INFO {JAGGERY.controllers.login:jag} -  Login URL: https://192.168.122.1:9443/admin/samlsso {JAGGERY.controllers.login:jag}
+TID: [0] [ES] [2014-06-11 10:13:34,108]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'abcd@carbon.super [-1234]' logged in at [2014-06-11 10:13:34,108+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 10:13:36,991]  INFO {JAGGERY.controllers.acs:jag} -  Emitting event : login {JAGGERY.controllers.acs:jag}
+TID: [0] [ES] [2014-06-11 10:21:01,528]  INFO {JAGGERY.controllers.login:jag} -  Login URL: https://192.168.122.1:9443/admin/samlsso {JAGGERY.controllers.login:jag}
+TID: [0] [ES] [2014-06-11 10:21:10,363]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'abcd@carbon.super [-1234]' logged in at [2014-06-11 10:21:10,362+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 10:21:10,407]  INFO {JAGGERY.controllers.acs:jag} -  Emitting event : login {JAGGERY.controllers.acs:jag}
+TID: [0] [ES] [2014-06-11 10:25:35,152]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 10:25:35,152]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 Enterprise Store... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 10:25:35,154]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 10:25:35,154]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 10:25:35,154]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 10:25:35,160]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 10:25:35,160]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 10:25:35,203]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 10:25:35,226]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 10:25:35,253]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 10:25:35,260]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/social] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 10:25:35,271]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/storage] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 10:25:35,287]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 10:25:35,291]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store-admin] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 10:25:35,291]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 10:25:35,292]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 10:25:35,294]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Writing logs  {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [ES] [2014-06-11 10:25:35,294]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 10:25:35,294]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 Enterprise Store... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 10:25:35,295]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 10:25:35,318]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiverDS} -  Thrift server shutting down... {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiverDS}
+TID: [0] [ES] [2014-06-11 10:25:37,350]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 10:25:37,351]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 10:25:37,351]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 10:25:37,607]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : /admin {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent}
+TID: [0] [ES] [2014-06-11 10:25:37,660]  INFO {org.wso2.jaggery.scxml.Activator} -  Stopping org.wso2.jaggery.scxml with RealmService disabled {org.wso2.jaggery.scxml.Activator}
+TID: [0] [ES] [2014-06-11 10:25:37,921]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 10:25:37,921]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 10:25:43,447]  INFO {org.wso2.carbon.cassandra.dataaccess.internal.DataAccessServiceDSComponent} -  Cannot locate '/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/conf/etc/hector-config.xml'. Using the default configuration {org.wso2.carbon.cassandra.dataaccess.internal.DataAccessServiceDSComponent}
+TID: [0] [ES] [2014-06-11 10:25:43,472]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 10:25:43,472]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.13.0-24-generic, amd64 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 10:25:43,472]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/lib/jvm/jdk1.6.0_31/jre {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 10:25:43,472]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.6.0_31 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 10:25:43,472]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 20.6-b01,Sun Microsystems Inc. {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 10:25:43,472]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 10:25:43,472]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/tmp {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 10:25:43,472]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : ayesha, en-US, Asia/Colombo {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 10:25:43,513]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  The default keystore (wso2carbon.jks) is currently being used. To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter}
+TID: [0] [ES] [2014-06-11 10:25:43,517]  INFO {org.wso2.carbon.databridge.agent.thrift.AgentHolder} -  Agent created ! {org.wso2.carbon.databridge.agent.thrift.AgentHolder}
+TID: [0] [ES] [2014-06-11 10:25:43,528]  INFO {org.wso2.carbon.databridge.agent.thrift.internal.AgentDS} -  Successfully deployed Agent Client {org.wso2.carbon.databridge.agent.thrift.internal.AgentDS}
+TID: [0] [ES] [2014-06-11 10:25:43,867]  INFO {org.wso2.carbon.social.internal.SocialComponent} -  Social Activity bundle is activated {org.wso2.carbon.social.internal.SocialComponent}
+TID: [0] [ES] [2014-06-11 10:25:44,392]  WARN {org.apache.cassandra.service.CassandraDaemon} -  Your JVM is out of date. Please upgrade to the newest Oracle Java 6. {org.apache.cassandra.service.CassandraDaemon}
+TID: [0] [ES] [2014-06-11 10:25:44,392]  WARN {org.apache.cassandra.service.CassandraDaemon} -  Your JVM is out of date. Please upgrade to the newest Oracle Java 6. {org.apache.cassandra.service.CassandraDaemon}
+TID: [0] [ES] [2014-06-11 10:25:44,533]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 64ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [ES] [2014-06-11 10:25:44,595]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [ES] [2014-06-11 10:25:44,642]  WARN {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent} -  No toolbox.properties file found! There won't be default toolboxes.. {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent}
+TID: [0] [ES] [2014-06-11 10:25:44,645]  INFO {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent} -  Successfully Started BAM Toolbox Deployer {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent}
+TID: [0] [ES] [2014-06-11 10:25:44,682]  INFO {org.wso2.carbon.databridge.core.internal.DataBridgeDS} -  Successfully deployed Agent Server  {org.wso2.carbon.databridge.core.internal.DataBridgeDS}
+TID: [0] [ES] [2014-06-11 10:25:44,686]  INFO {org.wso2.carbon.event.stream.manager.core.internal.util.EventStreamConfigurationHelper} -  The stream-manager-config.xml can not found  {org.wso2.carbon.event.stream.manager.core.internal.util.EventStreamConfigurationHelper}
+TID: [0] [ES] [2014-06-11 10:25:44,689]  INFO {org.wso2.carbon.bam.toolbox.deployer.internal.DataBridgeRecieverServiceComponent} -  Successfully setted data bridge reciever service {org.wso2.carbon.bam.toolbox.deployer.internal.DataBridgeRecieverServiceComponent}
+TID: [0] [ES] [2014-06-11 10:25:44,860] ERROR {org.apache.cassandra.cql3.QueryProcessor} -  Unable to initialize MemoryMeter (jamm not specified as javaagent).  This means Cassandra will be unable to measure object sizes accurately and may consequently OOM. {org.apache.cassandra.cql3.QueryProcessor}
+TID: [0] [ES] [2014-06-11 10:25:44,860] ERROR {org.apache.cassandra.cql3.QueryProcessor} -  Unable to initialize MemoryMeter (jamm not specified as javaagent).  This means Cassandra will be unable to measure object sizes accurately and may consequently OOM. {org.apache.cassandra.cql3.QueryProcessor}
+TID: [0] [ES] [2014-06-11 10:25:44,934]  WARN {org.apache.cassandra.service.CacheService} -  MemoryMeter uninitialized (jamm not specified as java agent); KeyCache size in JVM Heap will not be calculated accurately. Usually this means cassandra-env.sh disabled jamm because you are using a buggy JRE; upgrade to the Sun JRE instead {org.apache.cassandra.service.CacheService}
+TID: [0] [ES] [2014-06-11 10:25:44,934]  WARN {org.apache.cassandra.service.CacheService} -  MemoryMeter uninitialized (jamm not specified as java agent); KeyCache size in JVM Heap will not be calculated accurately. Usually this means cassandra-env.sh disabled jamm because you are using a buggy JRE; upgrade to the Sun JRE instead {org.apache.cassandra.service.CacheService}
+TID: [0] [ES] [2014-06-11 10:25:45,624]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent}
+TID: [0] [ES] [2014-06-11 10:25:45,756]  INFO {org.wso2.jaggery.scxml.Activator} -  Activating org.wso2.jaggery.scxml with RealmService enabled {org.wso2.jaggery.scxml.Activator}
+TID: [0] [ES] [2014-06-11 10:25:46,083]  INFO {org.wso2.carbon.cassandra.server.CassandraServerController} -  Cassandra Server Controller Thread was destroyed successfully {org.wso2.carbon.cassandra.server.CassandraServerController}
+TID: [0] [ES] [2014-06-11 10:25:48,599]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [ES] [2014-06-11 10:25:48,599]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [ES] [2014-06-11 10:25:48,752]  WARN {org.wso2.carbon.stratos.landing.page.deployer.LandingPageWebappDeployer} -  Product landing page not found. {org.wso2.carbon.stratos.landing.page.deployer.LandingPageWebappDeployer}
+TID: [0] [ES] [2014-06-11 10:25:48,753]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer}
+TID: [0] [ES] [2014-06-11 10:25:48,755]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 10:25:48,755]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 10:25:48,870]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 10:25:48,889]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 10:25:48,889]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 10:25:48,898]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 10:25:48,955]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 10:25:48,955]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 10:25:52,663]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [ES] [2014-06-11 10:25:52,663]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [ES] [2014-06-11 10:25:52,664]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [ES] [2014-06-11 10:25:52,664]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [ES] [2014-06-11 10:25:52,672]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/webapps/ROOT] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [ES] [2014-06-11 10:25:53,233]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store-admin].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/store-admin] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 10:25:53,254]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/storage].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/storage] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 10:25:53,699]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/store] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 10:25:53,918]  INFO {JAGGERY.config.app:js} -  Emitting event : tenantLoad {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:54,305]  INFO {JAGGERY.config.app:js} -  stacked-line-chart >>>> Stacked Line Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:54,411]  INFO {JAGGERY.config.app:js} -  horizontal-bar-chart >>>> Horizontal Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:54,500]  INFO {JAGGERY.config.app:js} -  bubble-chart >>>> Bubble Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:54,576]  INFO {JAGGERY.config.app:js} -  bar-chart >>>> Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:54,633]  INFO {JAGGERY.config.app:js} -  pie-chart >>>> Pie Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:54,683]  INFO {JAGGERY.config.app:js} -  stacked-bar-chart >>>> Stacked Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:54,729]  INFO {JAGGERY.config.app:js} -  line-chart >>>> Line Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:54,776]  INFO {JAGGERY.config.app:js} -  line-plus-bar-chart >>>> Line Plus Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:25:55,631]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/publisher] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 10:25:55,681]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/social].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/social] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 10:25:55,729]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/sso] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 10:25:55,749]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 10:25:55,792]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 10:25:55,826]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Deploying file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/bam-toolbox/social.tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 10:25:55,827]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Extracting toolbox to directory: /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/tmp/tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 10:25:55,830]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor} -  No Analytics found for toolbox :social {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor}
+TID: [0] [ES] [2014-06-11 10:25:55,830]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor} -  No jaggery artifacts found {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor}
+TID: [0] [ES] [2014-06-11 10:25:55,884]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Deployed successfully file: /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/bam-toolbox/social.tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 10:25:55,908]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v10 - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/client/modules/addressing-1.6.1-wso2v10.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [ES] [2014-06-11 10:25:55,908]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v10 - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/client/modules/addressing-1.6.1-wso2v10.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [ES] [2014-06-11 10:25:55,910]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 10:25:55,910]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 10:25:56,350]  WARN {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator} -  We don't support method overloading. Ignoring [validateAudienceRestriction] {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator}
+TID: [0] [ES] [2014-06-11 10:25:56,350]  WARN {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator} -  We don't support method overloading. Ignoring [validateAudienceRestriction] {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator}
+TID: [0] [ES] [2014-06-11 10:25:56,781]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.registry.ws.api -  {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 10:25:56,781]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.registry.ws.api -  {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 10:25:56,967]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/ {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 10:25:56,995]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 {org.wso2.carbon.core.internal.permission.update.PermissionUpdater}
+TID: [0] [ES] [2014-06-11 10:25:57,208]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift Server started at 192.168.122.1 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 10:25:57,213]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift SSL port : 7711 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 10:25:57,215]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift port : 7611 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 10:25:57,641]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : store {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 10:25:57,641]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : social {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 10:25:57,641]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : publisher {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 10:25:57,755]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9443 {org.wso2.carbon.core.transports.http.HttpsTransportListener}
+TID: [0] [ES] [2014-06-11 10:25:57,756]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9763 {org.wso2.carbon.core.transports.http.HttpTransportListener}
+TID: [0] [ES] [2014-06-11 10:25:57,830]  INFO {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent} -  Successfully Initialized Eventing on Registry {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent}
+TID: [0] [ES] [2014-06-11 10:26:00,698]  INFO {JAGGERY.config.app:js} -  Store URL : http://localhost:9763/store {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:26:02,631]  INFO {JAGGERY.config.app:js} -  Publisher URL : http://localhost:9763/publisher {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 10:28:05,535]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11111/jndi/rmi://localhost:9999/jmxrmi {org.wso2.carbon.core.init.JMXServerManager}
+TID: [0] [ES] [2014-06-11 10:28:05,536]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 Enterprise Store-1.0.0 {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [ES] [2014-06-11 10:28:05,537]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 144 sec {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [ES] [2014-06-11 10:28:05,686]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://192.168.122.1:9443/admin/carbon/ {org.wso2.carbon.ui.internal.CarbonUIServiceComponent}
+TID: [0] [ES] [2014-06-11 12:12:28,216]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2014-06-11 12:12:28,216+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 13:33:37,522]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2014-06-11 13:33:37,521+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 13:38:16,195]  INFO {JAGGERY..controllers.top-assets:jag} -  Emitting event : tenantLoad {JAGGERY..controllers.top-assets:jag}
+TID: [0] [ES] [2014-06-11 13:38:20,114]  INFO {JAGGERY.controllers.login:jag} -  Login URL: https://192.168.122.1:9443/admin/samlsso {JAGGERY.controllers.login:jag}
+TID: [0] [ES] [2014-06-11 13:38:51,619]  INFO {JAGGERY.views.register:jag} -  Emitting event : tenantLoad {JAGGERY.views.register:jag}
+TID: [0] [ES] [2014-06-11 13:38:51,621]  INFO {JAGGERY.views.register:jag} -  Emitting event : tenantCreate {JAGGERY.views.register:jag}
+TID: [0] [ES] [2014-06-11 13:38:51,635]  INFO {JAGGERY.views.register:jag} -  Emitting event : userRegister {JAGGERY.views.register:jag}
+TID: [0] [ES] [2014-06-11 13:38:51,664]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'Dakshika@carbon.super [-1234]' logged in at [2014-06-11 13:38:51,664+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 13:38:51,780]  INFO {JAGGERY.controllers.acs:jag} -  Emitting event : login {JAGGERY.controllers.acs:jag}
+TID: [0] [ES] [2014-06-11 13:38:51,784]  INFO {JAGGERY.controllers.acs:jag} -  Emitting event : userRegister {JAGGERY.controllers.acs:jag}
+TID: [0] [ES] [2014-06-11 13:47:03,111]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 13:47:03,112]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 Enterprise Store... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 13:47:03,114]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 13:47:03,115]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 13:47:03,115]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 13:47:03,122]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 13:47:03,122]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 13:47:03,161]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 13:47:03,186]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 13:47:03,216]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 13:47:03,231]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/social] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 13:47:03,246]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/storage] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 13:47:03,249]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 13:47:03,253]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store-admin] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 13:47:03,253]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 13:47:03,253]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 13:47:03,256]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Writing logs  {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [ES] [2014-06-11 13:47:03,256]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 13:47:03,256]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 Enterprise Store... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 13:47:03,256]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 13:47:03,275]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiverDS} -  Thrift server shutting down... {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiverDS}
+TID: [0] [ES] [2014-06-11 13:47:05,317]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 13:47:05,319]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 13:47:05,319]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 13:47:05,620]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : /admin {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent}
+TID: [0] [ES] [2014-06-11 13:47:05,666]  INFO {org.wso2.jaggery.scxml.Activator} -  Stopping org.wso2.jaggery.scxml with RealmService disabled {org.wso2.jaggery.scxml.Activator}
+TID: [0] [ES] [2014-06-11 13:47:05,957]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 13:47:05,957]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 13:47:17,922]  INFO {org.wso2.carbon.cassandra.dataaccess.internal.DataAccessServiceDSComponent} -  Cannot locate '/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/conf/etc/hector-config.xml'. Using the default configuration {org.wso2.carbon.cassandra.dataaccess.internal.DataAccessServiceDSComponent}
+TID: [0] [ES] [2014-06-11 13:47:17,954]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 13:47:17,954]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.13.0-24-generic, amd64 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 13:47:17,954]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/lib/jvm/jdk1.6.0_31/jre {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 13:47:17,954]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.6.0_31 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 13:47:17,955]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 20.6-b01,Sun Microsystems Inc. {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 13:47:17,955]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 13:47:17,955]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/tmp {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 13:47:17,955]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : ayesha, en-US, Asia/Colombo {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 13:47:17,998]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  The default keystore (wso2carbon.jks) is currently being used. To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter}
+TID: [0] [ES] [2014-06-11 13:47:18,003]  INFO {org.wso2.carbon.databridge.agent.thrift.AgentHolder} -  Agent created ! {org.wso2.carbon.databridge.agent.thrift.AgentHolder}
+TID: [0] [ES] [2014-06-11 13:47:18,014]  INFO {org.wso2.carbon.databridge.agent.thrift.internal.AgentDS} -  Successfully deployed Agent Client {org.wso2.carbon.databridge.agent.thrift.internal.AgentDS}
+TID: [0] [ES] [2014-06-11 13:47:18,364]  INFO {org.wso2.carbon.social.internal.SocialComponent} -  Social Activity bundle is activated {org.wso2.carbon.social.internal.SocialComponent}
+TID: [0] [ES] [2014-06-11 13:47:18,909]  WARN {org.apache.cassandra.service.CassandraDaemon} -  Your JVM is out of date. Please upgrade to the newest Oracle Java 6. {org.apache.cassandra.service.CassandraDaemon}
+TID: [0] [ES] [2014-06-11 13:47:18,909]  WARN {org.apache.cassandra.service.CassandraDaemon} -  Your JVM is out of date. Please upgrade to the newest Oracle Java 6. {org.apache.cassandra.service.CassandraDaemon}
+TID: [0] [ES] [2014-06-11 13:47:19,036]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 52ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [ES] [2014-06-11 13:47:19,079]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [ES] [2014-06-11 13:47:19,107]  WARN {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent} -  No toolbox.properties file found! There won't be default toolboxes.. {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent}
+TID: [0] [ES] [2014-06-11 13:47:19,112]  INFO {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent} -  Successfully Started BAM Toolbox Deployer {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent}
+TID: [0] [ES] [2014-06-11 13:47:19,148]  INFO {org.wso2.carbon.databridge.core.internal.DataBridgeDS} -  Successfully deployed Agent Server  {org.wso2.carbon.databridge.core.internal.DataBridgeDS}
+TID: [0] [ES] [2014-06-11 13:47:19,151]  INFO {org.wso2.carbon.event.stream.manager.core.internal.util.EventStreamConfigurationHelper} -  The stream-manager-config.xml can not found  {org.wso2.carbon.event.stream.manager.core.internal.util.EventStreamConfigurationHelper}
+TID: [0] [ES] [2014-06-11 13:47:19,156]  INFO {org.wso2.carbon.bam.toolbox.deployer.internal.DataBridgeRecieverServiceComponent} -  Successfully setted data bridge reciever service {org.wso2.carbon.bam.toolbox.deployer.internal.DataBridgeRecieverServiceComponent}
+TID: [0] [ES] [2014-06-11 13:47:19,403] ERROR {org.apache.cassandra.cql3.QueryProcessor} -  Unable to initialize MemoryMeter (jamm not specified as javaagent).  This means Cassandra will be unable to measure object sizes accurately and may consequently OOM. {org.apache.cassandra.cql3.QueryProcessor}
+TID: [0] [ES] [2014-06-11 13:47:19,403] ERROR {org.apache.cassandra.cql3.QueryProcessor} -  Unable to initialize MemoryMeter (jamm not specified as javaagent).  This means Cassandra will be unable to measure object sizes accurately and may consequently OOM. {org.apache.cassandra.cql3.QueryProcessor}
+TID: [0] [ES] [2014-06-11 13:47:19,486]  WARN {org.apache.cassandra.service.CacheService} -  MemoryMeter uninitialized (jamm not specified as java agent); KeyCache size in JVM Heap will not be calculated accurately. Usually this means cassandra-env.sh disabled jamm because you are using a buggy JRE; upgrade to the Sun JRE instead {org.apache.cassandra.service.CacheService}
+TID: [0] [ES] [2014-06-11 13:47:19,486]  WARN {org.apache.cassandra.service.CacheService} -  MemoryMeter uninitialized (jamm not specified as java agent); KeyCache size in JVM Heap will not be calculated accurately. Usually this means cassandra-env.sh disabled jamm because you are using a buggy JRE; upgrade to the Sun JRE instead {org.apache.cassandra.service.CacheService}
+TID: [0] [ES] [2014-06-11 13:47:19,746]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent}
+TID: [0] [ES] [2014-06-11 13:47:19,901]  INFO {org.wso2.jaggery.scxml.Activator} -  Activating org.wso2.jaggery.scxml with RealmService enabled {org.wso2.jaggery.scxml.Activator}
+TID: [0] [ES] [2014-06-11 13:47:20,493]  INFO {org.wso2.carbon.cassandra.server.CassandraServerController} -  Cassandra Server Controller Thread was destroyed successfully {org.wso2.carbon.cassandra.server.CassandraServerController}
+TID: [0] [ES] [2014-06-11 13:47:23,170]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [ES] [2014-06-11 13:47:23,170]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [ES] [2014-06-11 13:47:23,293]  WARN {org.wso2.carbon.stratos.landing.page.deployer.LandingPageWebappDeployer} -  Product landing page not found. {org.wso2.carbon.stratos.landing.page.deployer.LandingPageWebappDeployer}
+TID: [0] [ES] [2014-06-11 13:47:23,293]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer}
+TID: [0] [ES] [2014-06-11 13:47:23,295]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 13:47:23,295]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 13:47:23,405]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 13:47:23,426]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 13:47:23,426]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 13:47:23,436]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 13:47:23,492]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 13:47:23,492]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 13:47:26,513]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [ES] [2014-06-11 13:47:26,513]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [ES] [2014-06-11 13:47:26,513]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [ES] [2014-06-11 13:47:26,513]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [ES] [2014-06-11 13:47:26,523]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/webapps/ROOT] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [ES] [2014-06-11 13:47:27,081]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store-admin].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/store-admin] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 13:47:27,102]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/storage].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/storage] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 13:47:27,576]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/store] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 13:47:27,756]  INFO {JAGGERY.config.app:js} -  Emitting event : tenantLoad {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:28,112]  INFO {JAGGERY.config.app:js} -  stacked-line-chart >>>> Stacked Line Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:28,246]  INFO {JAGGERY.config.app:js} -  horizontal-bar-chart >>>> Horizontal Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:28,365]  INFO {JAGGERY.config.app:js} -  bubble-chart >>>> Bubble Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:28,432]  INFO {JAGGERY.config.app:js} -  bar-chart >>>> Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:28,495]  INFO {JAGGERY.config.app:js} -  pie-chart >>>> Pie Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:28,548]  INFO {JAGGERY.config.app:js} -  stacked-bar-chart >>>> Stacked Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:28,600]  INFO {JAGGERY.config.app:js} -  line-chart >>>> Line Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:28,649]  INFO {JAGGERY.config.app:js} -  line-plus-bar-chart >>>> Line Plus Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:29,703]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/publisher] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 13:47:29,777]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/social].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/social] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 13:47:29,853]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/sso] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 13:47:29,882]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 13:47:29,947]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 13:47:30,013]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Deploying file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/bam-toolbox/social.tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 13:47:30,015]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Extracting toolbox to directory: /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/tmp/tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 13:47:30,019]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor} -  No Analytics found for toolbox :social {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor}
+TID: [0] [ES] [2014-06-11 13:47:30,019]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor} -  No jaggery artifacts found {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor}
+TID: [0] [ES] [2014-06-11 13:47:30,083]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Deployed successfully file: /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/bam-toolbox/social.tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 13:47:30,122]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v10 - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/client/modules/addressing-1.6.1-wso2v10.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [ES] [2014-06-11 13:47:30,122]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v10 - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/client/modules/addressing-1.6.1-wso2v10.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [ES] [2014-06-11 13:47:30,124]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 13:47:30,124]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 13:47:30,499]  WARN {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator} -  We don't support method overloading. Ignoring [validateAudienceRestriction] {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator}
+TID: [0] [ES] [2014-06-11 13:47:30,499]  WARN {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator} -  We don't support method overloading. Ignoring [validateAudienceRestriction] {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator}
+TID: [0] [ES] [2014-06-11 13:47:31,043]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.registry.ws.api -  {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 13:47:31,043]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.registry.ws.api -  {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 13:47:31,214]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/ {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 13:47:31,240]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 {org.wso2.carbon.core.internal.permission.update.PermissionUpdater}
+TID: [0] [ES] [2014-06-11 13:47:31,479]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift Server started at 192.168.122.1 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 13:47:31,484]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift SSL port : 7711 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 13:47:31,485]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift port : 7611 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 13:47:31,972]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : store {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 13:47:31,972]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : social {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 13:47:31,973]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : publisher {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 13:47:32,095]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9443 {org.wso2.carbon.core.transports.http.HttpsTransportListener}
+TID: [0] [ES] [2014-06-11 13:47:32,096]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9763 {org.wso2.carbon.core.transports.http.HttpTransportListener}
+TID: [0] [ES] [2014-06-11 13:47:32,120]  INFO {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent} -  Successfully Initialized Eventing on Registry {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent}
+TID: [0] [ES] [2014-06-11 13:47:34,575]  INFO {JAGGERY.config.app:js} -  Store URL : http://localhost:9763/store {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:47:36,702]  INFO {JAGGERY.config.app:js} -  Publisher URL : http://localhost:9763/publisher {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 13:49:39,742]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11111/jndi/rmi://localhost:9999/jmxrmi {org.wso2.carbon.core.init.JMXServerManager}
+TID: [0] [ES] [2014-06-11 13:49:39,742]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 Enterprise Store-1.0.0 {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [ES] [2014-06-11 13:49:39,743]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 144 sec {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [ES] [2014-06-11 13:49:39,894]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://192.168.122.1:9443/admin/carbon/ {org.wso2.carbon.ui.internal.CarbonUIServiceComponent}
+TID: [0] [ES] [2014-06-11 13:54:47,599]  INFO {JAGGERY.apis.v2.assets:jag} -  Emitting event : tenantLoad {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 14:02:43,361]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2014-06-11 14:02:43,361+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 14:30:27,497]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2014-06-11 14:30:27,497+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 14:34:26,499]  INFO {JAGGERY.controllers.login:jag} -  Login URL: https://192.168.122.1:9443/admin/samlsso {JAGGERY.controllers.login:jag}
+TID: [0] [ES] [2014-06-11 14:34:40,578]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'Dakshika@carbon.super [-1234]' logged in at [2014-06-11 14:34:40,578+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 14:34:40,686]  INFO {JAGGERY.controllers.acs:jag} -  Emitting event : login {JAGGERY.controllers.acs:jag}
+TID: [0] [ES] [2014-06-11 15:12:39,627]  INFO {JAGGERY.apis.v2.assets:jag} -  --------------- {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 15:12:39,628]  INFO {JAGGERY.apis.v2.assets:jag} -  cartridge {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 15:12:41,351]  INFO {JAGGERY.apis.v2.assets:jag} -  --------------- {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 15:12:41,352]  INFO {JAGGERY.apis.v2.assets:jag} -  cartridge {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 15:15:19,233]  INFO {JAGGERY.modules.asset:js} -  muta  pissu {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:15:19,234]  INFO {JAGGERY.apis.v2.assets:jag} -  --------------- {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 15:15:19,234]  INFO {JAGGERY.apis.v2.assets:jag} -  cartridge {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 15:15:19,242]  INFO {JAGGERY.modules.asset:js} -  muta  pissu {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:16:09,291]  INFO {JAGGERY.modules.asset:js} -  muta  pissu {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:16:09,300]  INFO {JAGGERY.modules.asset:js} -  muta  pissu {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:16:15,872]  INFO {JAGGERY.modules.asset:js} -  muta  pissu {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:16:15,880]  INFO {JAGGERY.modules.asset:js} -  muta  pissu {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:17:24,690]  INFO {JAGGERY.modules.asset:js} -  wso2.anonymous.user {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:17:24,698]  INFO {JAGGERY.modules.asset:js} -  ayesha {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:17:45,673]  INFO {JAGGERY.modules.asset:js} -  wso2.anonymous.user {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:17:45,682]  INFO {JAGGERY.modules.asset:js} -  ayesha {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:19:44,011]  INFO {JAGGERY.modules.asset:js} -  wso2.anonymous.user {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:19:44,020]  INFO {JAGGERY.modules.asset:js} -  ayesha {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:23:15,788]  INFO {JAGGERY.modules.store:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "type" : "cartridge", "username" : "wso2.anonymous.user", "manager" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"}, "sorter" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}}} {JAGGERY.modules.store:js}
+TID: [0] [ES] [2014-06-11 15:23:15,797]  INFO {JAGGERY.modules.store:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "type" : "cartridge", "username" : "ayesha", "manager" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"}, "sorter" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}}} {JAGGERY.modules.store:js}
+TID: [0] [ES] [2014-06-11 15:23:58,352]  INFO {JAGGERY.modules.store:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "type" : "cartridge", "username" : "wso2.anonymous.user", "manager" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"}, "sorter" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}}} {JAGGERY.modules.store:js}
+TID: [0] [ES] [2014-06-11 15:23:58,362]  INFO {JAGGERY.modules.store:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "type" : "cartridge", "username" : "ayesha", "manager" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"}, "sorter" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}}} {JAGGERY.modules.store:js}
+TID: [0] [ES] [2014-06-11 15:23:59,239]  INFO {JAGGERY.modules.store:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "type" : "cartridge", "username" : "wso2.anonymous.user", "manager" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"}, "sorter" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}}} {JAGGERY.modules.store:js}
+TID: [0] [ES] [2014-06-11 15:23:59,249]  INFO {JAGGERY.modules.store:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "type" : "cartridge", "username" : "ayesha", "manager" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"}, "sorter" : {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}}} {JAGGERY.modules.store:js}
+TID: [0] [ES] [2014-06-11 15:26:46,375]  WARN {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  Failed Administrator login attempt 'admin[-1234]' at [2014-06-11 15:26:46,375+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 15:26:52,284]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2014-06-11 15:26:52,284+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 15:28:50,666] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: ReferenceError: "manager" is not defined. (/store/modules/asset.js#176) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: ReferenceError: "manager" is not defined. (/store/modules/asset.js#176)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:571)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:273)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:536)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:581)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:178)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonTomcatValve$1.invoke(CarbonTomcatValve.java:47)
+	at org.wso2.carbon.webapp.mgt.TenantLazyLoaderValve.invoke(TenantLazyLoaderValve.java:56)
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:47)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:141)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:156)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:52)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.mozilla.javascript.EcmaError: ReferenceError: "manager" is not defined. (/store/modules/asset.js#176)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.notFoundError(ScriptRuntime.java:3750)
+	at org.mozilla.javascript.ScriptRuntime.nameOrFunction(ScriptRuntime.java:1794)
+	at org.mozilla.javascript.ScriptRuntime.name(ScriptRuntime.java:1733)
+	at org.jaggeryjs.rhino.store.modules.c2._c_anonymous_7(/store/modules/asset.js:176)
+	at org.jaggeryjs.rhino.store.modules.c2.call(/store/modules/asset.js)
+	at org.mozilla.javascript.BaseFunction.construct(BaseFunction.java:338)
+	at org.mozilla.javascript.ScriptRuntime.newObject(ScriptRuntime.java:2349)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_10(/store/modules/store.js:161)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_13(/store/modules/store.js:201)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.NativeArray.iterativeMethod(NativeArray.java:1584)
+	at org.mozilla.javascript.NativeArray.execIdCall(NativeArray.java:318)
+	at org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:97)
+	at org.mozilla.javascript.optimizer.OptRuntime.call1(OptRuntime.java:32)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_12(/store/modules/store.js:200)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.BaseFunction.construct(BaseFunction.java:338)
+	at org.mozilla.javascript.ScriptRuntime.newObject(ScriptRuntime.java:2349)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_9(/store/modules/store.js:155)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_61(/store/modules/store.js:947)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.mozilla.javascript.gen._store__server_js_9._c_anonymous_17([store]/server.js:271)
+	at org.mozilla.javascript.gen._store__server_js_9.call([store]/server.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_60(/store/modules/store.js:942)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callN(OptRuntime.java:52)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_script_0(/store/apis/v2/assets.jag:5)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.exec(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:567)
+	... 35 more
+TID: [0] [ES] [2014-06-11 15:28:55,033] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: ReferenceError: "manager" is not defined. (/store/modules/asset.js#176) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: ReferenceError: "manager" is not defined. (/store/modules/asset.js#176)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:571)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:273)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:536)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:581)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:178)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonTomcatValve$1.invoke(CarbonTomcatValve.java:47)
+	at org.wso2.carbon.webapp.mgt.TenantLazyLoaderValve.invoke(TenantLazyLoaderValve.java:56)
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:47)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:141)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:156)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:52)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.mozilla.javascript.EcmaError: ReferenceError: "manager" is not defined. (/store/modules/asset.js#176)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.notFoundError(ScriptRuntime.java:3750)
+	at org.mozilla.javascript.ScriptRuntime.nameOrFunction(ScriptRuntime.java:1794)
+	at org.mozilla.javascript.ScriptRuntime.name(ScriptRuntime.java:1733)
+	at org.jaggeryjs.rhino.store.modules.c2._c_anonymous_7(/store/modules/asset.js:176)
+	at org.jaggeryjs.rhino.store.modules.c2.call(/store/modules/asset.js)
+	at org.mozilla.javascript.BaseFunction.construct(BaseFunction.java:338)
+	at org.mozilla.javascript.ScriptRuntime.newObject(ScriptRuntime.java:2349)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_10(/store/modules/store.js:161)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_13(/store/modules/store.js:201)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.NativeArray.iterativeMethod(NativeArray.java:1584)
+	at org.mozilla.javascript.NativeArray.execIdCall(NativeArray.java:318)
+	at org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:97)
+	at org.mozilla.javascript.optimizer.OptRuntime.call1(OptRuntime.java:32)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_12(/store/modules/store.js:200)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.BaseFunction.construct(BaseFunction.java:338)
+	at org.mozilla.javascript.ScriptRuntime.newObject(ScriptRuntime.java:2349)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_9(/store/modules/store.js:155)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_61(/store/modules/store.js:947)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.mozilla.javascript.gen._store__server_js_9._c_anonymous_17([store]/server.js:271)
+	at org.mozilla.javascript.gen._store__server_js_9.call([store]/server.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_60(/store/modules/store.js:942)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callN(OptRuntime.java:52)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_script_0(/store/apis/v2/assets.jag:5)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.exec(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:567)
+	... 35 more
+TID: [0] [ES] [2014-06-11 15:29:23,875]  INFO {JAGGERY.modules.asset:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:29:23,883]  INFO {JAGGERY.modules.asset:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:31:32,071]  INFO {JAGGERY.modules.asset:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:31:32,071]  INFO {JAGGERY.modules.asset:js} -  {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:31:32,080]  INFO {JAGGERY.modules.asset:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:31:32,080]  INFO {JAGGERY.modules.asset:js} -  {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:31:45,700]  INFO {JAGGERY.modules.asset:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:31:45,700]  INFO {JAGGERY.modules.asset:js} -  {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "wso2.anonymous.user", "registry" : {}, "versioning" : {"comments" : true}} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:31:45,708]  INFO {JAGGERY.modules.asset:js} -  {"registry" : {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}}, "manager" : {}, "type" : "cartridge"} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:31:45,708]  INFO {JAGGERY.modules.asset:js} -  {"server" : {"url" : "https://localhost:9443/admin"}, "tenantId" : -1234, "username" : "ayesha", "registry" : {}, "versioning" : {"comments" : true}} {JAGGERY.modules.asset:js}
+TID: [0] [ES] [2014-06-11 15:38:19,396] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:571)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:273)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:536)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:581)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:178)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonTomcatValve$1.invoke(CarbonTomcatValve.java:47)
+	at org.wso2.carbon.webapp.mgt.TenantLazyLoaderValve.invoke(TenantLazyLoaderValve.java:56)
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:47)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:141)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:156)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:52)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.notFunctionError(ScriptRuntime.java:3783)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2269)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_anonymous_1(/store/apis/v2/assets.jag:7)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ScriptRuntime.applyOrCall(ScriptRuntime.java:2430)
+	at org.mozilla.javascript.BaseFunction.execIdCall(BaseFunction.java:269)
+	at org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:97)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_61(/store/modules/store.js:947)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.mozilla.javascript.gen._store__server_js_9._c_anonymous_17([store]/server.js:271)
+	at org.mozilla.javascript.gen._store__server_js_9.call([store]/server.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_60(/store/modules/store.js:942)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callN(OptRuntime.java:52)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_script_0(/store/apis/v2/assets.jag:5)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.exec(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:567)
+	... 35 more
+TID: [0] [ES] [2014-06-11 15:38:44,600] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:571)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:273)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:536)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:581)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:178)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonTomcatValve$1.invoke(CarbonTomcatValve.java:47)
+	at org.wso2.carbon.webapp.mgt.TenantLazyLoaderValve.invoke(TenantLazyLoaderValve.java:56)
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:47)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:141)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:156)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:52)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.notFunctionError(ScriptRuntime.java:3783)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2269)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_anonymous_1(/store/apis/v2/assets.jag:7)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ScriptRuntime.applyOrCall(ScriptRuntime.java:2430)
+	at org.mozilla.javascript.BaseFunction.execIdCall(BaseFunction.java:269)
+	at org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:97)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_61(/store/modules/store.js:947)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.mozilla.javascript.gen._store__server_js_9._c_anonymous_17([store]/server.js:271)
+	at org.mozilla.javascript.gen._store__server_js_9.call([store]/server.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_60(/store/modules/store.js:942)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callN(OptRuntime.java:52)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_script_0(/store/apis/v2/assets.jag:5)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.exec(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:567)
+	... 35 more
+TID: [0] [ES] [2014-06-11 15:38:45,395] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:571)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:273)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:536)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:581)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:178)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonTomcatValve$1.invoke(CarbonTomcatValve.java:47)
+	at org.wso2.carbon.webapp.mgt.TenantLazyLoaderValve.invoke(TenantLazyLoaderValve.java:56)
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:47)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:141)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:156)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:52)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#7)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.notFunctionError(ScriptRuntime.java:3783)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2269)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_anonymous_1(/store/apis/v2/assets.jag:7)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ScriptRuntime.applyOrCall(ScriptRuntime.java:2430)
+	at org.mozilla.javascript.BaseFunction.execIdCall(BaseFunction.java:269)
+	at org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:97)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_61(/store/modules/store.js:947)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.mozilla.javascript.gen._store__server_js_9._c_anonymous_17([store]/server.js:271)
+	at org.mozilla.javascript.gen._store__server_js_9.call([store]/server.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_60(/store/modules/store.js:942)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callN(OptRuntime.java:52)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_script_0(/store/apis/v2/assets.jag:5)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.exec(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:567)
+	... 35 more
+TID: [0] [ES] [2014-06-11 15:39:59,944] ERROR {org.jaggeryjs.jaggery.core.manager.WebAppManager} -  org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#43) {org.jaggeryjs.jaggery.core.manager.WebAppManager}
+org.jaggeryjs.scriptengine.exceptions.ScriptException: org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#43)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:571)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.exec(RhinoEngine.java:273)
+	at org.jaggeryjs.jaggery.core.manager.WebAppManager.execute(WebAppManager.java:536)
+	at org.jaggeryjs.jaggery.core.JaggeryServlet.doGet(JaggeryServlet.java:24)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:735)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:749)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:487)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:379)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:339)
+	at org.jaggeryjs.jaggery.core.JaggeryFilter.doFilter(JaggeryFilter.java:21)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:581)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:178)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonTomcatValve$1.invoke(CarbonTomcatValve.java:47)
+	at org.wso2.carbon.webapp.mgt.TenantLazyLoaderValve.invoke(TenantLazyLoaderValve.java:56)
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:47)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:141)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:156)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:936)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:52)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1004)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:589)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1653)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+Caused by: org.mozilla.javascript.EcmaError: TypeError: Cannot find function info in object function Log() {
+	[native code, arity=1]
+}
+. (/store/apis/v2/assets.jag#43)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3687)
+	at org.mozilla.javascript.ScriptRuntime.constructError(ScriptRuntime.java:3665)
+	at org.mozilla.javascript.ScriptRuntime.typeError(ScriptRuntime.java:3693)
+	at org.mozilla.javascript.ScriptRuntime.typeError2(ScriptRuntime.java:3712)
+	at org.mozilla.javascript.ScriptRuntime.notFunctionError(ScriptRuntime.java:3783)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThisHelper(ScriptRuntime.java:2269)
+	at org.mozilla.javascript.ScriptRuntime.getPropFunctionAndThis(ScriptRuntime.java:2251)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_anonymous_1(/store/apis/v2/assets.jag:43)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ScriptRuntime.applyOrCall(ScriptRuntime.java:2430)
+	at org.mozilla.javascript.BaseFunction.execIdCall(BaseFunction.java:269)
+	at org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:97)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_61(/store/modules/store.js:947)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call0(OptRuntime.java:23)
+	at org.mozilla.javascript.gen._store__server_js_9._c_anonymous_17([store]/server.js:271)
+	at org.mozilla.javascript.gen._store__server_js_9.call([store]/server.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.call2(OptRuntime.java:42)
+	at org.jaggeryjs.rhino.store.modules.c1._c_anonymous_60(/store/modules/store.js:942)
+	at org.jaggeryjs.rhino.store.modules.c1.call(/store/modules/store.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callN(OptRuntime.java:52)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0._c_script_0(/store/apis/v2/assets.jag:5)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.call(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.rhino.store.apis.v_2.c0.exec(/store/apis/v2/assets.jag)
+	at org.jaggeryjs.scriptengine.engine.RhinoEngine.execScript(RhinoEngine.java:567)
+	... 35 more
+TID: [0] [ES] [2014-06-11 15:40:23,863]  INFO {JAGGERY.apis.v2.assets:jag} -  {} {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 15:40:30,371]  INFO {JAGGERY.apis.v2.assets:jag} -  {} {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 15:40:55,384]  INFO {JAGGERY.apis.v2.assets:jag} -  {} {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 16:26:19,207]  INFO {JAGGERY.apis.v2.assets:jag} -  -------------------------------- {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 16:27:36,614]  INFO {JAGGERY.apis.v2.assets:jag} -  -------------------------------- {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 16:37:29,393]  INFO {JAGGERY.apis.v2.assets:jag} -  --------------------------------[object Response] {JAGGERY.apis.v2.assets:jag}
+TID: [0] [ES] [2014-06-11 16:39:56,229]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2014-06-11 16:39:56,228+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 16:46:06,067]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 0ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [ES] [2014-06-11 16:47:08,625]  INFO {JAGGERY.controllers.login:jag} -  Login URL: https://192.168.122.1:9443/admin/samlsso {JAGGERY.controllers.login:jag}
+TID: [0] [ES] [2014-06-11 16:47:16,381]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'Dakshika@carbon.super [-1234]' logged in at [2014-06-11 16:47:16,381+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 16:47:16,461]  INFO {JAGGERY.controllers.acs:jag} -  Emitting event : login {JAGGERY.controllers.acs:jag}
+TID: [0] [ES] [2014-06-11 16:49:53,593]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 16:49:53,593]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 Enterprise Store... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 16:49:53,595]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 16:49:53,595]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 16:49:53,595]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 16:49:53,599]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 16:49:53,599]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 16:49:53,662]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 16:49:53,684]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 16:49:53,711]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 16:49:53,728]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/social] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 16:49:53,732]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/storage] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 16:49:53,736]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 16:49:53,740]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store-admin] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 16:49:53,740]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 16:49:53,740]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 16:49:53,743]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 16:49:53,743]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 Enterprise Store... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 16:49:53,743]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 16:49:53,758]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiverDS} -  Thrift server shutting down... {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiverDS}
+TID: [0] [ES] [2014-06-11 16:49:55,800]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 16:49:55,802]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 16:49:55,802]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 16:49:56,038]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : /admin {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent}
+TID: [0] [ES] [2014-06-11 16:49:56,085]  INFO {org.wso2.jaggery.scxml.Activator} -  Stopping org.wso2.jaggery.scxml with RealmService disabled {org.wso2.jaggery.scxml.Activator}
+TID: [0] [ES] [2014-06-11 16:49:56,309]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 16:49:56,309]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 16:58:11,854]  INFO {org.wso2.carbon.cassandra.dataaccess.internal.DataAccessServiceDSComponent} -  Cannot locate '/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/conf/etc/hector-config.xml'. Using the default configuration {org.wso2.carbon.cassandra.dataaccess.internal.DataAccessServiceDSComponent}
+TID: [0] [ES] [2014-06-11 16:58:11,878]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Starting WSO2 Carbon... {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 16:58:11,878]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Operating System : Linux 3.13.0-24-generic, amd64 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 16:58:11,878]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Home        : /usr/lib/jvm/jdk1.6.0_31/jre {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 16:58:11,878]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Version     : 1.6.0_31 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 16:58:11,878]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java VM          : Java HotSpot(TM) 64-Bit Server VM 20.6-b01,Sun Microsystems Inc. {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 16:58:11,878]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Carbon Home      : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0 {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 16:58:11,878]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  Java Temp Dir    : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/tmp {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 16:58:11,878]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} -  User             : ayesha, en-US, Asia/Colombo {org.wso2.carbon.core.internal.CarbonCoreActivator}
+TID: [0] [ES] [2014-06-11 16:58:11,920]  WARN {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter} -  The default keystore (wso2carbon.jks) is currently being used. To maximize security when deploying to a production environment, configure a new keystore with a unique password in the production server profile. {org.wso2.carbon.core.bootup.validator.util.ValidationResultPrinter}
+TID: [0] [ES] [2014-06-11 16:58:11,924]  INFO {org.wso2.carbon.databridge.agent.thrift.AgentHolder} -  Agent created ! {org.wso2.carbon.databridge.agent.thrift.AgentHolder}
+TID: [0] [ES] [2014-06-11 16:58:11,936]  INFO {org.wso2.carbon.databridge.agent.thrift.internal.AgentDS} -  Successfully deployed Agent Client {org.wso2.carbon.databridge.agent.thrift.internal.AgentDS}
+TID: [0] [ES] [2014-06-11 16:58:12,276]  INFO {org.wso2.carbon.social.internal.SocialComponent} -  Social Activity bundle is activated {org.wso2.carbon.social.internal.SocialComponent}
+TID: [0] [ES] [2014-06-11 16:58:12,966]  WARN {org.apache.cassandra.service.CassandraDaemon} -  Your JVM is out of date. Please upgrade to the newest Oracle Java 6. {org.apache.cassandra.service.CassandraDaemon}
+TID: [0] [ES] [2014-06-11 16:58:12,966]  WARN {org.apache.cassandra.service.CassandraDaemon} -  Your JVM is out of date. Please upgrade to the newest Oracle Java 6. {org.apache.cassandra.service.CassandraDaemon}
+TID: [0] [ES] [2014-06-11 16:58:13,063]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 45ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [ES] [2014-06-11 16:58:13,110]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Registry Mode    : READ-WRITE {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [ES] [2014-06-11 16:58:13,146]  WARN {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent} -  No toolbox.properties file found! There won't be default toolboxes.. {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent}
+TID: [0] [ES] [2014-06-11 16:58:13,147]  INFO {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent} -  Successfully Started BAM Toolbox Deployer {org.wso2.carbon.bam.toolbox.deployer.internal.BAMToolBoxDeployerComponent}
+TID: [0] [ES] [2014-06-11 16:58:13,188]  INFO {org.wso2.carbon.databridge.core.internal.DataBridgeDS} -  Successfully deployed Agent Server  {org.wso2.carbon.databridge.core.internal.DataBridgeDS}
+TID: [0] [ES] [2014-06-11 16:58:13,191]  INFO {org.wso2.carbon.event.stream.manager.core.internal.util.EventStreamConfigurationHelper} -  The stream-manager-config.xml can not found  {org.wso2.carbon.event.stream.manager.core.internal.util.EventStreamConfigurationHelper}
+TID: [0] [ES] [2014-06-11 16:58:13,193]  INFO {org.wso2.carbon.bam.toolbox.deployer.internal.DataBridgeRecieverServiceComponent} -  Successfully setted data bridge reciever service {org.wso2.carbon.bam.toolbox.deployer.internal.DataBridgeRecieverServiceComponent}
+TID: [0] [ES] [2014-06-11 16:58:13,331] ERROR {org.apache.cassandra.cql3.QueryProcessor} -  Unable to initialize MemoryMeter (jamm not specified as javaagent).  This means Cassandra will be unable to measure object sizes accurately and may consequently OOM. {org.apache.cassandra.cql3.QueryProcessor}
+TID: [0] [ES] [2014-06-11 16:58:13,331] ERROR {org.apache.cassandra.cql3.QueryProcessor} -  Unable to initialize MemoryMeter (jamm not specified as javaagent).  This means Cassandra will be unable to measure object sizes accurately and may consequently OOM. {org.apache.cassandra.cql3.QueryProcessor}
+TID: [0] [ES] [2014-06-11 16:58:13,418]  WARN {org.apache.cassandra.service.CacheService} -  MemoryMeter uninitialized (jamm not specified as java agent); KeyCache size in JVM Heap will not be calculated accurately. Usually this means cassandra-env.sh disabled jamm because you are using a buggy JRE; upgrade to the Sun JRE instead {org.apache.cassandra.service.CacheService}
+TID: [0] [ES] [2014-06-11 16:58:13,418]  WARN {org.apache.cassandra.service.CacheService} -  MemoryMeter uninitialized (jamm not specified as java agent); KeyCache size in JVM Heap will not be calculated accurately. Usually this means cassandra-env.sh disabled jamm because you are using a buggy JRE; upgrade to the Sun JRE instead {org.apache.cassandra.service.CacheService}
+TID: [0] [ES] [2014-06-11 16:58:13,933]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} -  Carbon UserStoreMgtDSComponent activated successfully. {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent}
+TID: [0] [ES] [2014-06-11 16:58:14,100]  INFO {org.wso2.jaggery.scxml.Activator} -  Activating org.wso2.jaggery.scxml with RealmService enabled {org.wso2.jaggery.scxml.Activator}
+TID: [0] [ES] [2014-06-11 16:58:14,410]  INFO {org.wso2.carbon.cassandra.server.CassandraServerController} -  Cassandra Server Controller Thread was destroyed successfully {org.wso2.carbon.cassandra.server.CassandraServerController}
+TID: [0] [ES] [2014-06-11 16:58:17,026]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [ES] [2014-06-11 16:58:17,026]  INFO {org.apache.axis2.deployment.ClusterBuilder} -  Clustering has been disabled {org.apache.axis2.deployment.ClusterBuilder}
+TID: [0] [ES] [2014-06-11 16:58:17,157]  WARN {org.wso2.carbon.stratos.landing.page.deployer.LandingPageWebappDeployer} -  Product landing page not found. {org.wso2.carbon.stratos.landing.page.deployer.LandingPageWebappDeployer}
+TID: [0] [ES] [2014-06-11 16:58:17,157]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} -  User Store Configuration Deployer initiated. {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer}
+TID: [0] [ES] [2014-06-11 16:58:17,159]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 16:58:17,159]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 16:58:17,329]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 16:58:17,347]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 16:58:17,347]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Version.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Version.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 16:58:17,357]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 16:58:17,412]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 16:58:17,412]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: Echo.aar - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/axis2services/Echo.aar {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 16:58:20,595]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [ES] [2014-06-11 16:58:20,595]  INFO {org.apache.shiro.config.IniSecurityManagerFactory} -  Realms have been explicitly set on the SecurityManager instance - auto-setting of realms will not occur. {org.apache.shiro.config.IniSecurityManagerFactory}
+TID: [0] [ES] [2014-06-11 16:58:20,596]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [ES] [2014-06-11 16:58:20,596]  INFO {org.apache.shiro.realm.AuthorizingRealm} -  No cache or cacheManager properties have been set.  Authorization cache cannot be obtained. {org.apache.shiro.realm.AuthorizingRealm}
+TID: [0] [ES] [2014-06-11 16:58:20,605]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/webapps/ROOT] {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer}
+TID: [0] [ES] [2014-06-11 16:58:21,155]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store-admin].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/store-admin] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 16:58:21,175]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/storage].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/storage] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 16:58:21,643]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/store] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 16:58:21,824]  INFO {JAGGERY.config.app:js} -  Emitting event : tenantLoad {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:22,182]  INFO {JAGGERY.config.app:js} -  stacked-line-chart >>>> Stacked Line Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:22,292]  INFO {JAGGERY.config.app:js} -  horizontal-bar-chart >>>> Horizontal Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:22,384]  INFO {JAGGERY.config.app:js} -  bubble-chart >>>> Bubble Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:22,452]  INFO {JAGGERY.config.app:js} -  bar-chart >>>> Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:22,506]  INFO {JAGGERY.config.app:js} -  pie-chart >>>> Pie Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:22,557]  INFO {JAGGERY.config.app:js} -  stacked-bar-chart >>>> Stacked Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:22,608]  INFO {JAGGERY.config.app:js} -  line-chart >>>> Line Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:22,655]  INFO {JAGGERY.config.app:js} -  line-plus-bar-chart >>>> Line Plus Bar Chart {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:23,563]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/publisher] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 16:58:23,612]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/social].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/social] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 16:58:23,669]  INFO {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer} -  Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso].File[/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/jaggeryapps/sso] {org.jaggeryjs.jaggery.app.mgt.TomcatJaggeryWebappsDeployer}
+TID: [0] [ES] [2014-06-11 16:58:23,690]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: Version {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 16:58:23,734]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} -  Deploying Axis2 service: echo {super-tenant} {org.wso2.carbon.core.deployment.DeploymentInterceptor}
+TID: [0] [ES] [2014-06-11 16:58:23,764]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Deploying file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/bam-toolbox/social.tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 16:58:23,765]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Extracting toolbox to directory: /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/tmp/tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 16:58:23,768]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor} -  No Analytics found for toolbox :social {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor}
+TID: [0] [ES] [2014-06-11 16:58:23,768]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor} -  No jaggery artifacts found {org.wso2.carbon.bam.toolbox.deployer.core.BAMArtifactProcessor}
+TID: [0] [ES] [2014-06-11 16:58:23,813]  INFO {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer} -  Deployed successfully file: /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/bam-toolbox/social.tbox {org.wso2.carbon.bam.toolbox.deployer.core.BAMToolBoxDeployer}
+TID: [0] [ES] [2014-06-11 16:58:23,838]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v10 - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/client/modules/addressing-1.6.1-wso2v10.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [ES] [2014-06-11 16:58:23,838]  INFO {org.apache.axis2.deployment.ModuleDeployer} -  Deploying module: addressing-1.6.1-wso2v10 - file:/home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/client/modules/addressing-1.6.1-wso2v10.mar {org.apache.axis2.deployment.ModuleDeployer}
+TID: [0] [ES] [2014-06-11 16:58:23,840]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 16:58:23,840]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender started {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 16:58:24,199]  WARN {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator} -  We don't support method overloading. Ignoring [validateAudienceRestriction] {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator}
+TID: [0] [ES] [2014-06-11 16:58:24,199]  WARN {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator} -  We don't support method overloading. Ignoring [validateAudienceRestriction] {org.apache.axis2.description.java2wsdl.DefaultSchemaGenerator}
+TID: [0] [ES] [2014-06-11 16:58:24,700]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.registry.ws.api -  {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 16:58:24,700]  INFO {org.apache.axis2.deployment.DeploymentEngine} -  Deploying Web service: org.wso2.carbon.registry.ws.api -  {org.apache.axis2.deployment.DeploymentEngine}
+TID: [0] [ES] [2014-06-11 16:58:24,937]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Repository       : /home/ayesha/Documents/Project/DEV/WSO2ES-With-Cartridge-Store/wso2store-1.1.0/repository/deployment/server/ {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 16:58:24,972]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} -  Permission cache updated for tenant -1234 {org.wso2.carbon.core.internal.permission.update.PermissionUpdater}
+TID: [0] [ES] [2014-06-11 16:58:25,236]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift Server started at 192.168.122.1 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 16:58:25,243]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift SSL port : 7711 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 16:58:25,246]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver} -  Thrift port : 7611 {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiver}
+TID: [0] [ES] [2014-06-11 16:58:25,799]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : store {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 16:58:25,800]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : social {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 16:58:25,800]  INFO {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager} -  A SSO Service Provider is registered for : publisher {org.wso2.stratos.identity.saml2.sso.mgt.SSOServiceProviderUpdateManager}
+TID: [0] [ES] [2014-06-11 16:58:25,921]  INFO {org.wso2.carbon.core.transports.http.HttpsTransportListener} -  HTTPS port       : 9443 {org.wso2.carbon.core.transports.http.HttpsTransportListener}
+TID: [0] [ES] [2014-06-11 16:58:25,921]  INFO {org.wso2.carbon.core.transports.http.HttpTransportListener} -  HTTP port        : 9763 {org.wso2.carbon.core.transports.http.HttpTransportListener}
+TID: [0] [ES] [2014-06-11 16:58:25,945]  INFO {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent} -  Successfully Initialized Eventing on Registry {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent}
+TID: [0] [ES] [2014-06-11 16:58:28,643]  INFO {JAGGERY.config.app:js} -  Store URL : http://localhost:9763/store {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:30,563]  INFO {JAGGERY.config.app:js} -  Publisher URL : http://localhost:9763/publisher {JAGGERY.config.app:js}
+TID: [0] [ES] [2014-06-11 16:58:36,081]  INFO {JAGGERY..controllers.top-assets:jag} -  Emitting event : tenantLoad {JAGGERY..controllers.top-assets:jag}
+TID: [0] [ES] [2014-06-11 17:00:33,560]  INFO {org.wso2.carbon.core.init.JMXServerManager} -  JMX Service URL  : service:jmx:rmi://localhost:11111/jndi/rmi://localhost:9999/jmxrmi {org.wso2.carbon.core.init.JMXServerManager}
+TID: [0] [ES] [2014-06-11 17:00:33,561]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  Server           :  WSO2 Enterprise Store-1.0.0 {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [ES] [2014-06-11 17:00:33,562]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} -  WSO2 Carbon started in 144 sec {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent}
+TID: [0] [ES] [2014-06-11 17:00:33,702]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} -  Mgt Console URL  : https://192.168.122.1:9443/admin/carbon/ {org.wso2.carbon.ui.internal.CarbonUIServiceComponent}
+TID: [0] [ES] [2014-06-11 17:01:30,147]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2014-06-11 17:01:30,147+0530] {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil}
+TID: [0] [ES] [2014-06-11 17:02:53,232]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} -  Configured Registry in 0ms {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService}
+TID: [0] [ES] [2014-06-11 17:03:38,256]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown hook triggered.... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 17:03:38,256]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Gracefully shutting down WSO2 Enterprise Store... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 17:03:38,257]  INFO {org.wso2.carbon.core.ServerManagement} -  Starting to switch to maintenance mode... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 17:03:38,258]  INFO {org.wso2.carbon.core.ServerManagement} -  Stopped all transport listeners {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 17:03:38,258]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for request service completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 17:03:38,280]  INFO {org.wso2.carbon.core.ServerManagement} -  All requests have been served. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 17:03:38,280]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for deployment completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 17:03:38,323]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 17:03:38,333]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/sso] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 17:03:38,349]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 17:03:38,354]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/social] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 17:03:38,362]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/storage] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 17:03:38,375]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 17:03:38,378]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} -  Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/store-admin] {org.wso2.carbon.webapp.mgt.WebApplication}
+TID: [0] [ES] [2014-06-11 17:03:38,378]  INFO {org.wso2.carbon.core.ServerManagement} -  All deployment tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 17:03:38,379]  INFO {org.wso2.carbon.core.ServerManagement} -  Waiting for server task completion... {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 17:03:38,381]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} -  Writing logs  {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent}
+TID: [0] [ES] [2014-06-11 17:03:38,381]  INFO {org.wso2.carbon.core.ServerManagement} -  All server tasks have been completed. {org.wso2.carbon.core.ServerManagement}
+TID: [0] [ES] [2014-06-11 17:03:38,382]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down WSO2 Enterprise Store... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 17:03:38,382]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutting down OSGi framework... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 17:03:38,394]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiverDS} -  Thrift server shutting down... {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftDataReceiverDS}
+TID: [0] [ES] [2014-06-11 17:03:40,429]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Stopping CarbonServerManager... {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 17:03:40,432]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 17:03:40,432]  INFO {org.apache.axis2.transport.tcp.TCPTransportSender} -  TCP Sender Shutdown {org.apache.axis2.transport.tcp.TCPTransportSender}
+TID: [0] [ES] [2014-06-11 17:03:40,663]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} -  Stopping the carbon web-app registered under : /admin {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent}
+TID: [0] [ES] [2014-06-11 17:03:40,706]  INFO {org.wso2.jaggery.scxml.Activator} -  Stopping org.wso2.jaggery.scxml with RealmService disabled {org.wso2.jaggery.scxml.Activator}
+TID: [0] [ES] [2014-06-11 17:03:41,012]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Shutdown complete {org.wso2.carbon.core.init.CarbonServerManager}
+TID: [0] [ES] [2014-06-11 17:03:41,012]  INFO {org.wso2.carbon.core.init.CarbonServerManager} -  Halting JVM {org.wso2.carbon.core.init.CarbonServerManager}

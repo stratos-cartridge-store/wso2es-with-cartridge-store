@@ -2,15 +2,24 @@
     "applyTo": "cartridge",
 
 
-    "import": [
+   "import": [
         "/modules/ext/scripts/rxt.importer.js",
-        "/modules/ext/scripts/form.exporter.js"],
+        "/modules/ext/scripts/form.exporter.js",
+        "/modules/ext/scripts/asset.exporter.js",
+        "/modules/ext/scripts/asset.action.save.js",
+        "/modules/ext/scripts/asset.lifecycle.action.save.js",
+        "/modules/ext/scripts/form.importer.js"],
 
     "fieldPropertyRules": [
         "overview.name:order=1",
         "overview.provider:order=2",
         "overview.description:order=3",
-        "overview.version:order=4"
+        "overview.version:order=4",
+	"overview.version:save=disabled"
+    ],
+
+    "link": [
+        "overview.stage:value=*.lifecycleState"
     ],
 
     "tables": [
@@ -48,7 +57,12 @@
             "name": "editable",
             "value": true
         },
-         {
+        {
+            "field": "images.*",
+            "name": "save",
+            "value": "default"
+        },
+        {
             "field": "images.*",
             "name": "editable",
             "value": true
@@ -59,19 +73,24 @@
             "value": "asset.lifecycle.action.save"
         },
         {
+            "field": "*.lifeCycle",
+            "name": "fetch",
+            "value": "default"
+        },
+        {
             "field": "overview.provider",
             "name": "readOnly",
             "value": "true"
         },
-         {
-            "field":"overview.provider",
-            "name":"editable",
-            "value":false
+        {
+            "field": "overview.provider",
+            "name": "editable",
+            "value": false
         },
-         {
-            "field":"overview.name",
-            "name":"editable",
-            "value":false
+        {
+            "field": "overview.name",
+            "name": "editable",
+            "value": false
         },
         {
             "field": "overview.createdtime",
@@ -79,11 +98,15 @@
             "value": "true"
         },
         {
-            "field":"overview.version",
-            "name":"editable",
-            "value":false
+            "field": "overview.version",
+            "name": "editable",
+            "value": false
         },
-
+        {
+            "field": "overview.description",
+            "name": "value",
+            "value": "provider has not given a description"
+        }
     ],
 
     "fields": [
